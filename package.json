@@ -1,0 +1,13 @@
+{ 
+    "name": "subtask-1",
+"version": "1.0.0",
+"description": "",
+"main": "index.js",
+
+"scripts": {
+    "test": "echo \"Error: no test specifeted\" && exit 1"
+    },
+    "reywords": [],
+    "author": "",
+    "license": "ISC"
+    }
